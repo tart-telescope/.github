@@ -5,8 +5,8 @@ The TART project is an open-source imaging radio telescope developed initially a
 ## Links
 
 * The project is managed by the [Electronics Research Group](https://elec.ac.nz).
-* Documentation is [here](https://tart.elec.ac.nz/doc).
-* TART is moving to version 3. [The old version is hosted here](https://github.com/tmolteno/TART)
+* Documentation is [here](https://tart.elec.ac.nz/).
+* Join the [TART community](https://tart.elec.ac.nz/docs/basics/get-in-touch)
 
 ## Acknowlegements
 
